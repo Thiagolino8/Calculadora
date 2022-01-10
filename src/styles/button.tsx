@@ -7,7 +7,7 @@ const Button = tw.button`
   border
   border-white
   outline-none
-  bg-white/60
+  bg-white/75
   hover:bg-white/10
   transition-all
   duration-100

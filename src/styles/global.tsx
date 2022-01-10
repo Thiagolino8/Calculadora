@@ -14,7 +14,7 @@ const CustomStyles = createGlobalStyle`
 
   body {
     ${tw`
-      bg-gradient-to-r from-blue-400 to-yellow-500
+      bg-gradient-to-r from-blue-400 to-green-500
       h-screen
       w-screen
       text-gray-900
