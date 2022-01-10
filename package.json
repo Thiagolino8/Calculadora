@@ -1,0 +1,36 @@
+{
+  "name": "calculadora",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "babelMacros": {
+    "twin": {
+      "preset": "styled-components"
+    }
+  },
+  "dependencies": {
+    "@types/styled-components": "^5.1.19",
+    "babel-plugin-macros": "^3.1.0",
+    "babel-plugin-twin": "^1.0.2",
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.3",
+    "tailwindcss": "^3.0.12",
+    "twin.macro": "^2.8.2",
+    "use-dark-mode": "^2.3.1",
+    "use-ssr": "^1.0.24"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "@types/react": "^17.0.38",
+    "eslint": "^8.6.0",
+    "eslint-config-next": "^12.0.7",
+    "typescript": "^4.5.4",
+    "yarn-upgrade-all": "^0.6.1"
+  }
+}
