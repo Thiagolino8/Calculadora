@@ -31,7 +31,6 @@ export default class MyDocument extends Document {
     return (
       <Html lang="pt-br">
         <Head>
-          <title>Template Next.js</title>
           <meta charSet="utf-8" />
           <link
             rel="stylesheet"
