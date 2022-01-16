@@ -5,6 +5,8 @@ const Grid = tw.div`
   justify-center
   grid-cols-[repeat(4, 6rem)]
   grid-rows-[minmax(7rem, auto) repeat(5, 6rem)]
+  rounded-3xl
+  overflow-hidden
 `;
 
 export default Grid
