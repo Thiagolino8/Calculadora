@@ -7,8 +7,9 @@ const Output = tw.div`
   flex-col
   items-end
   justify-around
-  p-3
+  p-5
   break-all
+  h-28
 `;
 
 export default Output

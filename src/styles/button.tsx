@@ -8,7 +8,7 @@ const Button = tw.button`
   border-white
   outline-none
   bg-white/75
-  hover:bg-white/10
+  hover:bg-white/25
   transition-all
   duration-100
 `;
